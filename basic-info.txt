@@ -1,0 +1,17 @@
+To Use Docker
+-------------------------
+docker compose build
+docker compose up -d
+
+docker ps => To check containers
+
+Project will run on http://localhost:8000
+
+
+Credentials
+------------------------
+Email => kush@gmail.com
+Pass => admin123
+
+Email => demo@gmail.com
+Pass => admin123
